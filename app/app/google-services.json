@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "648279847643",
+    "firebase_url": "https://formulario-9b119-default-rtdb.firebaseio.com",
+    "project_id": "formulario-9b119",
+    "storage_bucket": "formulario-9b119.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648279847643:web:802107ded1f0f5957f52fe",
+        "android_client_info": {
+          "package_name": "com.empresa.registro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaI5NPapzEe1jK8EfZrnTW8lEytfy4eR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
