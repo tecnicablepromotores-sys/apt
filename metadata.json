@@ -1,6 +1,0 @@
-{
-  "name": "Tecnicable",
-  "description": "Aplicación de registro de clientes de Tecnicable para el alta de servicios con captura de ubicación y foto del DNI.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
