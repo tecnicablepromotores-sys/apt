@@ -1,6 +1,0 @@
-{
-  "name": "Tecnicable PRO",
-  "description": "Aplicación de monitoreo, auditoría de red y gestión de clientes de Tecnicable PRO.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
